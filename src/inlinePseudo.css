@@ -1,0 +1,5 @@
+::-webkit-input-placeholder,
+.InputField::placeholder {
+    color: #a7a7a7;
+    font-family: 'Open Sans', 'sans-serif';
+}
